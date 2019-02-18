@@ -104,8 +104,6 @@ github排名:[https://github.com/trending](https://link.jianshu.com/?t=https://g
 
 github搜索：[https://github.com/search](https://link.jianshu.com/?t=https://github.com/search).
 
-此文章转自github:[https://github.com/Tim9Liu9/TimLiu-iOS](https://link.jianshu.com/?t=https://github.com/Tim9Liu9/TimLiu-iOS)
-
 UI下拉刷新[EGOTableViewPullRefresh](https://link.jianshu.com/?t=https://github.com/enormego/EGOTableViewPullRefresh)- 最早的下拉刷新控件。
 
 [SVPullToRefresh](https://link.jianshu.com/?t=https://github.com/samvermette/SVPullToRefresh)- 下拉刷新控件。
